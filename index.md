@@ -17,3 +17,12 @@ about
 folder_topic/article_topic
 ```
 
+```{toctree}
+:maxdepth: 2
+:hidden:
+:caption: Nextflow
+
+folder_topic/Nextflow
+folder_topic/nf-core
+```
+
