@@ -20,7 +20,7 @@ folder_topic/article_topic
 ```{toctree}
 :maxdepth: 2
 :hidden:
-:caption: Nextflow
+:caption: Nextflow notes
 
 folder_topic/Nextflow
 folder_topic/nf-core
