@@ -7,6 +7,7 @@ Write something using markdown syntax. You can use the
 [GitHub Docs Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 to learn more about the markup syntax.
 
+Here are some of my notes about Github and git system
 
 From https://www.youtube.com/watch?v=RGOj5yH7evk
 
@@ -44,8 +45,8 @@ Adding a reference to the remote repository git@github.com:/apalleja/repo.git
 
 ## Then we make changes and have to do
 ```
-	> git add
-	> git commit -m "Updated readme"
+> git add
+> git commit -m "Updated readme"
 ```
 
 ```	
